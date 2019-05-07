@@ -1,5 +1,10 @@
-HTML Purifier [![Build Status](https://secure.travis-ci.org/ProtonMailg/htmlpurifier.svg?branch=master)](http://travis-ci.org/ProtonMail/htmlpurifier)
+HTML Purifier 
 =============
+
+[![Software license][ico-license]](LICENSE)
+[![Latest stable][ico-version-stable]][link-packagist]
+[![Monthly installs][ico-downloads-monthly]][link-downloads]
+[![Build Status][ico-travis]][link-travis]
 
 HTML Purifier is an HTML filtering solution that uses a unique combination
 of robust whitelists and aggressive parsing to ensure that not only are
@@ -22,8 +27,19 @@ HTML Purifier can be found on the web at: [http://htmlpurifier.org/](http://html
 
 ## Installation
 
-Package available on [Composer](https://packagist.org/packages/protonlabs/htmlpurifier).
+Package available on [Composer][link-packagist].
 
 If you're using Composer to manage dependencies, you can use
 
     $ composer require protonlabs/htmlpurifier
+
+
+
+[ico-version-stable]: https://img.shields.io/packagist/v/protonlabs/htmlpurifier.svg?style=flat-square
+[ico-license]: https://img.shields.io/github/license/ProtonMail/htmlpurifier.svg?style=flat-square
+[ico-downloads-monthly]: https://img.shields.io/packagist/dm/protonlabs/htmlpurifier.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/ProtonMail/htmlpurifier.svg?style=flat-square
+
+[link-packagist]: https://packagist.org/packages/protonlabs/htmlpurifier
+[link-travis]: https://travis-ci.org/ProtonMail/htmlpurifier
+[link-downloads]: https://packagist.org/packages/protonlabs/htmlpurifier/stats
