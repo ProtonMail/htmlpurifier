@@ -1,4 +1,4 @@
-HTML Purifier [![Build Status](https://secure.travis-ci.org/ezyang/htmlpurifier.svg?branch=master)](http://travis-ci.org/ezyang/htmlpurifier)
+HTML Purifier [![Build Status](https://secure.travis-ci.org/ProtonMailg/htmlpurifier.svg?branch=master)](http://travis-ci.org/ProtonMail/htmlpurifier)
 =============
 
 HTML Purifier is an HTML filtering solution that uses a unique combination
@@ -22,8 +22,8 @@ HTML Purifier can be found on the web at: [http://htmlpurifier.org/](http://html
 
 ## Installation
 
-Package available on [Composer](https://packagist.org/packages/ezyang/htmlpurifier).
+Package available on [Composer](https://packagist.org/packages/protonlabs/htmlpurifier).
 
 If you're using Composer to manage dependencies, you can use
 
-    $ composer require ezyang/htmlpurifier
+    $ composer require protonlabs/htmlpurifier
